@@ -397,7 +397,7 @@ section .title::after{
 }
 .experience .card  .box a:hover{
     color: rgb(17, 17, 17);
-    background: rgb(240, 137, 137);
+    background: rgb(245, 242, 242);
 }
 .experience .carousel .card{
     background: #222;
